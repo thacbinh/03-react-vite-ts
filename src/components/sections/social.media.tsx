@@ -7,7 +7,7 @@ interface Iprops {
     youtube: string;
     tiktok: string;
     udemy: string;
-    facebook: string
+    facebook: string;
 }
 
 const SocialMedia = (props: Iprops) => {
